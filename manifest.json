@@ -1,6 +1,6 @@
 {
-  "short_name": "Bhopal Samachar | MP's No.1 News Portal",
-  "name": "Bhopal Samachar",
+  "short_name": "Bhopal Samachar",
+  "name": "Bhopal Samachar | MP's No.1 News Portal",
   "icons": [
     {
       "src": "180x180.png",
@@ -20,5 +20,5 @@
   "start_url": "https://sachinaoh.github.io/bs-pwa/",
   "background_color": "#3367D6",
   "display": "standalone",
-  "theme_color": "#3367D6"
+  "theme_color": "#ffffff"
 }
