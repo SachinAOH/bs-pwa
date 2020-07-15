@@ -17,7 +17,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://sachinaoh.github.io/bs-pwa",
+  "start_url": "https://sachinaoh.github.io/bs-pwa/",
   "background_color": "#3367D6",
   "display": "standalone",
   "theme_color": "#ffffff"
